@@ -16,3 +16,10 @@ Requirements:
 - Используем данные Московской биржи MOEX (данные по акциям и по дивидендам)
 - Используем логирование
 - Используем Python multiprocessing
+
+Примеры:
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik1.jpg)
+
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik2.jpg)
+
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik3.jpg)
