@@ -18,8 +18,8 @@ Requirements:
 - Используем Python multiprocessing
 
 Примеры:
-![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik1.jpg)
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/sample_1.jpg)
 
-![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik2.jpg)
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/sample_2.jpg)
 
-![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/stepik_tik3.jpg)
+![title](https://github.com/Tikhvinskiy/MOEX-Russian-financial-market/blob/main/sample_3.jpg)
